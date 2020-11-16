@@ -19,4 +19,4 @@ Format
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
-## [Abdullah Ahmad] (https://github.com/Abdullah204)
+## [Abdullah204] (https://github.com/Abdullah204)
